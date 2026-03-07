@@ -1,5 +1,6 @@
 ---
 layout: about
+orientation: horizontal
 title: Home
 permalink: /
 subtitle: Ph.D. Candidate in Information Systems & Management Science
@@ -10,13 +11,14 @@ profile:
   image: 
   image_circular: false
   more_info: >
-    
+    <p>muchenwen2-c@my.cityu.edu.hk</p>
+    <p>City University of Hong Kong</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -31,7 +33,18 @@ My research focuses on the **spillover effects of sharing economy**, particularl
 **Research Interests:** Sharing Economy, Empirical Operations Management, Urban Computing
 
 **Advisors:** 
-- Associate Professor Liu Junming (City University of Hong Kong)
-- Professor Lin Jun (Xi'an Jiaotong University)
+- Associate Professor <a href="http://www.is.cityu.edu.hk/staff/junmiliu/" target="_blank">Liu Junming</a> (City University of Hong Kong)
+- Professor <a href="http://gr.xjtu.edu.cn/web/ljun" target="_blank">Lin Jun</a> (Xi'an Jiaotong University)
 
 **Contact:** muchenwen2-c@my.cityu.edu.hk
+
+## Education
+
+**Ph.D. in Information Systems** (2021 - 2026, Expected)
+- City University of Hong Kong & Xi'an Jiaotong University (Joint Program)
+
+**M.Sc. in Management Science and Engineering** (2018 - 2021)
+- Xi'an Jiaotong University
+
+**B.Eng. in Industrial Engineering** (2014 - 2018)
+- Xi'an Jiaotong University

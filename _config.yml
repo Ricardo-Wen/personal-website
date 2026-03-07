@@ -303,14 +303,16 @@ enable_video_embedding: false
 # Icon
 # -----------------------------------------------------------------------------
 
-icon:
-  name: 
-  width: 
-  height: 
+# Icon configuration disabled - using emoji instead
+# icon:
+#   name: 
+#   width: 
+#   height: 
 
 # -----------------------------------------------------------------------------
 # Social Networks
 # -----------------------------------------------------------------------------
+
 
 # Social links are configured in _data/socials.yml
 
