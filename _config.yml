@@ -82,6 +82,9 @@ pagination:
 # -----------------------------------------------------------------------------
 
 collections:
+  pages:
+    output: true
+    permalink: /:path/
   news:
     defaults:
       layout: post
