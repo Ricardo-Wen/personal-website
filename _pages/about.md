@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about_horizontal
 orientation: horizontal
 title: Home
 permalink: /
@@ -14,11 +14,11 @@ profile:
     <p>muchenwen2-c@my.cityu.edu.hk</p>
     <p>City University of Hong Kong</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 5
 
