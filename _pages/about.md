@@ -9,6 +9,8 @@ profile:
   align: right
   image: 
   image_circular: false
+  more_info: >
+    
 
 selected_papers: false
 social: true
@@ -36,38 +38,17 @@ My research focuses on the **spillover effects of sharing economy**, particularl
 
 ## Education
 
-**Ph.D. in Information Systems** (Joint Program, 2021 - 2026 Expected)
-- City University of Hong Kong & Xi'an Jiaotong University
+**Joint Ph.D. in Information Systems** (Sept 2021 – Present, Expected June 2026)
+- City University of Hong Kong & Xi'an Jiaotong University (Joint Program)
+- Advisors: Assoc. Prof. Liu Junming (CityU) & Prof. Lin Jun (XJTU)
 
-**B.S. in Industrial Engineering** (Graduated: June 2019)
-- Xi'an Jiaotong University, School of Management
+**Ph.D. in Management Science** (Sept 2019 – Present, Expected June 2026)
+- School of Management, Xi'an Jiaotong University
+- Advisor: Prof. Lin Jun
 
-## Honors & Awards
-
-- **Best Paper Award Nomination**, IJOPM Hong Kong Workshop, The Hong Kong Polytechnic University (2026)
-- **Best Student Paper Award Nomination**, International Conference on Information Systems (ICIS) (2023)
-- **Outstanding Achievement Award in Philosophy and Social Sciences (First Prize)**, Shaanxi Provincial Government (2021)
-
-## Working Papers
-
-1. **Boosting and Burdening: Dual Spillover Effects of Bike-Sharing Networks on Home-Sharing Performance** (Under Review at *Production and Operations Management*)
-   - *ICIS 2023 Best Student Paper Award Nomination*
-
-2. **Protecting You, Threatening Your Property: Impacts of Bike-Sharing on Urban Crime** (Under Review at *Decision Sciences*)
-
-3. **Rethinking Conventional Wisdom: the Net Spillover Effect of Bike Sharing Entry on Restaurant Patronage** (In Preparation, Target: *Journal of Marketing Research*)
-
-4. **Share the sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare** (In Preparation, Target: *Manufacturing & Service Operations Management*)
-   - *Best Paper Award Nomination, IJOPM Hong Kong Workshop (2026)*
-
-5. **The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents** (In Preparation, Target: *Manufacturing & Service Operations Management*)
-
-## Publications
-
-1. **Wen, M.**, Lin, J., Qian, Y., & Huang, W. (2021). Scheduling interrelated activities in complex projects under high-order rework: A DSM-based approach. *Computers & Operations Research*, 136, 105494.
-
-2. Lin, J., Huang, W., **Wen, M.**, Li, D., Ma, S., Hua, J., & Tian, Y. (2020). Containing the spread of coronavirus disease 2019 (COVID-19): Meteorological factors and control strategies. *Science of the Total Environment*, 739, 140053.
+**B.S. in Industrial Engineering** (Graduated June 2019)
+- School of Management, Xi'an Jiaotong University
 
 ## Download CV
 
-<a href="{{ '/assets/pdf/CV_Muchen_Wen.pdf' | relative_url }}" class="btn btn-primary" target="_blank"><i class="fa-solid fa-download"></i> Download CV</a>
+You can download my full CV [<a href="/assets/pdf/CV_Muchen_Wen.pdf" target="_blank">here</a>].
