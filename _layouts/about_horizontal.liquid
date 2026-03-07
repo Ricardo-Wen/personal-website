@@ -33,9 +33,6 @@ layout: default
                 cache_bust=true
               %}
             {% endif %}
-            {% if page.profile.more_info %}
-              <div class="more-info">{{ page.profile.more_info }}</div>
-            {% endif %}
           </div>
         {% endif %}
 
@@ -50,37 +47,9 @@ layout: default
         {% endif %}
       </div>
 
-      <!-- Sidebar -->
+      <!-- Sidebar - Currently Empty -->
       <div class="col-md-4">
-        <!-- News -->
-        {% if page.announcements and page.announcements.enabled %}
-          <div class="sidebar-section mb-4">
-            <h5>
-              <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-            </h5>
-            {% include news.liquid limit=true %}
-          </div>
-        {% endif %}
-
-        <!-- Selected papers -->
-        {% if page.selected_papers %}
-          <div class="sidebar-section mb-4">
-            <h5>
-              <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
-            </h5>
-            {% include selected_papers.liquid %}
-          </div>
-        {% endif %}
-
-        <!-- Latest posts -->
-        {% if page.latest_posts and page.latest_posts.enabled %}
-          <div class="sidebar-section mb-4">
-            <h5>
-              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a>
-            </h5>
-            {% include latest_posts.liquid %}
-          </div>
-        {% endif %}
+        <!-- Sidebar content can be added here if needed -->
       </div>
     </div>
 

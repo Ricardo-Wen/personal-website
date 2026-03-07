@@ -1,6 +1,5 @@
 ---
 layout: about_horizontal
-orientation: horizontal
 title: Home
 permalink: /
 subtitle: Ph.D. Candidate in Information Systems & Management Science
@@ -10,15 +9,12 @@ profile:
   align: right
   image: 
   image_circular: false
-  more_info: >
-    <p>muchenwen2-c@my.cityu.edu.hk</p>
-    <p>City University of Hong Kong</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -40,11 +36,38 @@ My research focuses on the **spillover effects of sharing economy**, particularl
 
 ## Education
 
-**Ph.D. in Information Systems** (2021 - 2026, Expected)
-- City University of Hong Kong & Xi'an Jiaotong University (Joint Program)
+**Ph.D. in Information Systems** (Joint Program, 2021 - 2026 Expected)
+- City University of Hong Kong & Xi'an Jiaotong University
 
-**M.Sc. in Management Science and Engineering** (2018 - 2021)
-- Xi'an Jiaotong University
+**B.S. in Industrial Engineering** (Graduated: June 2019)
+- Xi'an Jiaotong University, School of Management
 
-**B.Eng. in Industrial Engineering** (2014 - 2018)
-- Xi'an Jiaotong University
+## Honors & Awards
+
+- **Best Paper Award Nomination**, IJOPM Hong Kong Workshop, The Hong Kong Polytechnic University (2026)
+- **Best Student Paper Award Nomination**, International Conference on Information Systems (ICIS) (2023)
+- **Outstanding Achievement Award in Philosophy and Social Sciences (First Prize)**, Shaanxi Provincial Government (2021)
+
+## Working Papers
+
+1. **Boosting and Burdening: Dual Spillover Effects of Bike-Sharing Networks on Home-Sharing Performance** (Under Review at *Production and Operations Management*)
+   - *ICIS 2023 Best Student Paper Award Nomination*
+
+2. **Protecting You, Threatening Your Property: Impacts of Bike-Sharing on Urban Crime** (Under Review at *Decision Sciences*)
+
+3. **Rethinking Conventional Wisdom: the Net Spillover Effect of Bike Sharing Entry on Restaurant Patronage** (In Preparation, Target: *Journal of Marketing Research*)
+
+4. **Share the sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare** (In Preparation, Target: *Manufacturing & Service Operations Management*)
+   - *Best Paper Award Nomination, IJOPM Hong Kong Workshop (2026)*
+
+5. **The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents** (In Preparation, Target: *Manufacturing & Service Operations Management*)
+
+## Publications
+
+1. **Wen, M.**, Lin, J., Qian, Y., & Huang, W. (2021). Scheduling interrelated activities in complex projects under high-order rework: A DSM-based approach. *Computers & Operations Research*, 136, 105494.
+
+2. Lin, J., Huang, W., **Wen, M.**, Li, D., Ma, S., Hua, J., & Tian, Y. (2020). Containing the spread of coronavirus disease 2019 (COVID-19): Meteorological factors and control strategies. *Science of the Total Environment*, 739, 140053.
+
+## Download CV
+
+<a href="{{ '/assets/pdf/CV_Muchen_Wen.pdf' | relative_url }}" class="btn btn-primary" target="_blank"><i class="fa-solid fa-download"></i> Download CV</a>
