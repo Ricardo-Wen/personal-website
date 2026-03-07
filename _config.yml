@@ -391,3 +391,10 @@ imagemagick:
     webp: "-auto-orient -quality 85"
 
 lazy_loading_images: true
+
+# -----------------------------------------------------------------------------
+# Third Party Libraries
+# -----------------------------------------------------------------------------
+
+third_party_libraries:
+  enabled: true
