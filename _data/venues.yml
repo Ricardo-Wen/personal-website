@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"COR":
+  url: https://www.sciencedirect.com/journal/computers-and-operations-research
+  color: "#0077B6"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"STOTEN":
+  url: https://www.sciencedirect.com/journal/science-of-the-total-environment
+  color: "#2E8B57"
 
-"Vision":
-  color: "#009f36"
+"POM":
+  url: https://www.poms.org/journal/
+  color: "#8B0000"
+
+"DS":
+  url: https://onlinelibrary.wiley.com/journal/15405915
+  color: "#1A5276"
+
+"JMR":
+  url: https://journals.sagepub.com/home/mrj
+  color: "#6C3483"
+
+"MSOM":
+  url: https://pubsonline.informs.org/journal/msom
+  color: "#D35400"
+
+"ICIS":
+  url: https://aisel.aisnet.org/icis/
+  color: "#C0392B"

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 **Best Paper Award Nomination** at IJOPM Hong Kong Workshop 2026, Hong Kong Polytechnic University for the paper "Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare"
+🏆 **Best Paper Award** at IJOPM Hong Kong Workshop 2026, Hong Kong Polytechnic University for the paper "Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare"

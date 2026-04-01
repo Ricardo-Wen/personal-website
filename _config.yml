@@ -4,22 +4,22 @@
 
 title: Muchen Wen
 first_name: Muchen
-middle_name: 
+middle_name:
 last_name: Wen
 contact_note: >
   Best way to reach me is via email.
 description: >
-  Ph.D. Candidate in Information Systems and Management Science. 
+  Ph.D. Candidate in Information Systems and Management Science.
   Research interests: Sharing Economy, Empirical OM, Urban Computing.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  &copy; {{ 'now' | date: '%Y' }} Muchen Wen. All rights reserved.
 
 keywords: Sharing Economy, Bike-Sharing, Urban Computing, Empirical OM, Information Systems
 lang: en
 icon: 🚲
 
 url: https://ricardo-wen.github.io
-baseurl: /personal-website 
+baseurl: /personal-website
 last_updated: true
 back_to_top: true
 
@@ -142,14 +142,12 @@ defaults:
 
 exclude:
   - _pages/about_einstein.md
-  - _pages/cv.md
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/teaching.md
   - _posts/
-  - _projects/
   - _books/
   - _teachings/
   - bin/
@@ -304,15 +302,10 @@ enable_video_embedding: false
 # -----------------------------------------------------------------------------
 
 # Icon configuration disabled - using emoji instead
-# icon:
-#   name: 
-#   width: 
-#   height: 
 
 # -----------------------------------------------------------------------------
 # Social Networks
 # -----------------------------------------------------------------------------
-
 
 # Social links are configured in _data/socials.yml
 
@@ -320,7 +313,7 @@ enable_video_embedding: false
 # Repository
 # -----------------------------------------------------------------------------
 repository:
-  url: 
+  url:
   owner: muchenwen
   repo: muchenwen.github.io
 

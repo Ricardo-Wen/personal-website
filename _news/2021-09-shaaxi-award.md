@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 Received **Outstanding Achievement Award in Philosophy and Social Sciences (First Prize)** from Shaanxi Provincial Government, China
+🏆 **陕西省哲学社会科学优秀成果一等奖**（陕西省人民政府）
