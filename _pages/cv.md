@@ -42,32 +42,34 @@ description: Curriculum Vitae
 
 7. **Wen, M.**, Zhan, B., & Wang, Y. (In Progress). Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare. Target: *Manufacturing & Service Operations Management*.
    - **IJOPM Hong Kong Workshop 2026 Best Paper Award**
-<br>
+
+&nbsp;
+
 8. **Wen, M.**, Zhan, B., & Wang, Y. (In Progress). The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents. Target: *Manufacturing & Service Operations Management*.
 
 ---
 
 ## Working Projects
 
-9. **Model-Free Online Learning for Revenue Management under Censored Demand**. 
-<br>
-Develops a model-free online optimization framework based on entropy-regularized policy search for revenue management with censored demand, achieving cumulative regret bound of *O*(√T).
+9. **Model-Free Online Learning for Revenue Management under Censored Demand**.
 
-10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics**. 
-<br>
-Develops a structural model of consumer cognitive resource evolution during livestream sessions to derive optimal product sequencing strategies.
+   Develops a model-free online optimization framework based on entropy-regularized policy search for revenue management with censored demand, achieving cumulative regret bound of *O*(√T).
 
-11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets**. 
-<br>
-Develops a Deep Spatial Choice Model integrating deep learning with discrete choice to quantify commercial spatial externalities of bike-sharing stations.
+10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics**.
 
-12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation**. 
-<br>
-Studies how LLMs can be orchestrated through multi-agent architecture to transform shopper intent into complete shopping solutions.
+    Develops a structural model of consumer cognitive resource evolution during livestream sessions to derive optimal product sequencing strategies.
 
-13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data**. 
-<br>
-Leverages large-scale GPS trajectory data to examine how violent crime exposure reshapes residents' mobility, spatial choices, and activity patterns.
+11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets**.
+
+    Develops a Deep Spatial Choice Model integrating deep learning with discrete choice to quantify commercial spatial externalities of bike-sharing stations.
+
+12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation**.
+
+    Studies how LLMs can be orchestrated through multi-agent architecture to transform shopper intent into complete shopping solutions.
+
+13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data**.
+
+    Leverages large-scale GPS trajectory data to examine how violent crime exposure reshapes residents' mobility, spatial choices, and activity patterns.
 
 ---
 
