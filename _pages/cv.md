@@ -23,7 +23,7 @@ description: Curriculum Vitae
 
 ### Published Papers
 
-1. **Wen, M.**, Lin, J., Qian, Y., & Huang, W. (2021). Scheduling interrelated activities in complex projects under high-order rework: A DSM-based approach. *Computers & Operations Research*, 136, 105494.
+1. **Wen, M.**, Lin, J., Qian, Y., & Huang, W. (2021). Scheduling interrelated activities in complex projects under high-order rework: A DSM-based approach. *Computers & Operations Research* (ABS3), 136, 105494.
 
 2. Lin, J., Huang, W., **Wen, M.**, Li, D., Ma, S., Hua, J., & Tian, Y. (2020). Containing the spread of coronavirus disease 2019 (COVID-19): Meteorological factors and control strategies. *Science of The Total Environment*, 739, 140053.
 
@@ -40,24 +40,29 @@ description: Curriculum Vitae
 
 6. **Wen, M.**, Liu, J., Foutz, N. Z., & Sun, B. (In Preparation). Rethinking Conventional Wisdom: The Net Spillover Effect of Bike Sharing Entry on Restaurant Patronage. Target: *Journal of Marketing Research*.
 
-7. Zhan, B., Wang, Y., & **Wen, M.** (In Preparation). Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare. Target: *Manufacturing & Service Operations Management*.
+7. **Wen, M.**, Zhan, B., & Wang, Y. (In Preparation). Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare. Target: *Manufacturing & Service Operations Management*.
    - **IJOPM Hong Kong Workshop 2026 Best Paper Award**
 
-8. Zhan, B., Wang, Y., & **Wen, M.** (In Preparation). The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents. Target: *Manufacturing & Service Operations Management*.
+8. **Wen, M.**, Zhan, B., & Wang, Y. (In Preparation). The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents. Target: *Manufacturing & Service Operations Management*.
 
 ---
 
 ## Working Projects
 
-9. **Model-Free Online Learning for Revenue Management under Censored Demand** (In Preparation). Develops a model-free online optimization framework based on entropy-regularized policy search for revenue management with censored demand, achieving cumulative regret bound of *O*(√T).
+9. **Model-Free Online Learning for Revenue Management under Censored Demand** (In Preparation). 
+Develops a model-free online optimization framework based on entropy-regularized policy search for revenue management with censored demand, achieving cumulative regret bound of *O*(√T).
 
-10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics** (In Preparation). Develops a structural model of consumer cognitive resource evolution during livestream sessions to derive optimal product sequencing strategies.
+10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics** (In Preparation). 
+Develops a structural model of consumer cognitive resource evolution during livestream sessions to derive optimal product sequencing strategies.
 
-11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets** (In Preparation). Develops a Deep Spatial Choice Model integrating deep learning with discrete choice to quantify commercial spatial externalities of bike-sharing stations.
+11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets** (In Preparation). 
+Develops a Deep Spatial Choice Model integrating deep learning with discrete choice to quantify commercial spatial externalities of bike-sharing stations.
 
-12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation** (In Preparation). Studies how LLMs can be orchestrated through multi-agent architecture to transform shopper intent into complete shopping solutions.
+12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation** (In Preparation). 
+Studies how LLMs can be orchestrated through multi-agent architecture to transform shopper intent into complete shopping solutions.
 
-13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data** (In Preparation). Leverages large-scale GPS trajectory data to examine how violent crime exposure reshapes residents' mobility, spatial choices, and activity patterns.
+13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data** (In Preparation). 
+Leverages large-scale GPS trajectory data to examine how violent crime exposure reshapes residents' mobility, spatial choices, and activity patterns.
 
 ---
 
