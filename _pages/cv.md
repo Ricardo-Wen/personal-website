@@ -50,18 +50,23 @@ description: Curriculum Vitae
 ## Working Projects
 
 9. **Model-Free Online Learning for Revenue Management under Censored Demand**. 
+<br>
 Develops a model-free online optimization framework based on entropy-regularized policy search for revenue management with censored demand, achieving cumulative regret bound of *O*(√T).
 
 10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics**. 
+<br>
 Develops a structural model of consumer cognitive resource evolution during livestream sessions to derive optimal product sequencing strategies.
 
 11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets**. 
+<br>
 Develops a Deep Spatial Choice Model integrating deep learning with discrete choice to quantify commercial spatial externalities of bike-sharing stations.
 
 12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation**. 
+<br>
 Studies how LLMs can be orchestrated through multi-agent architecture to transform shopper intent into complete shopping solutions.
 
 13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data**. 
+<br>
 Leverages large-scale GPS trajectory data to examine how violent crime exposure reshapes residents' mobility, spatial choices, and activity patterns.
 
 ---
