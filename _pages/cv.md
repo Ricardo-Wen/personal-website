@@ -27,21 +27,37 @@ description: Curriculum Vitae
 
 2. Lin, J., Huang, W., **Wen, M.**, Li, D., Ma, S., Hua, J., & Tian, Y. (2020). Containing the spread of coronavirus disease 2019 (COVID-19): Meteorological factors and control strategies. *Science of The Total Environment*, 739, 140053.
 
-### Working Papers
+### Conference Paper
 
-1. **Wen, M.**, Liu, J., Kwon, J., Jung, K. S., & Kwark, Y. (Under Review). Boosting and Burdening: Dual Spillover Effects of Bike-Sharing Networks on Home-Sharing Performance. *Production and Operations Management*.
+3. **Wen, M.**, Liu, J., Kwon, J., Jung, K. S., & Kwark, Y. (2023). Spillover in Sharing Economies: Network Effect of Bike-sharing Services on Home-sharing Performance. *International Conference on Information Systems (ICIS)*.
    - **ICIS 2023 Best Student Paper Award Nomination**
 
-2. Zhan, B., Wang, Y., Feng, G., **Wen, M.***, & Lin, J. (Under Review). Protecting You, Threatening Your Property: Impacts of Bike-Sharing on Urban Crime. *Decision Sciences*.
+### Working Papers
 
-3. **Wen, M.**, Liu, J., Foutz, N. Z., & Sun, B. (In Preparation). Rethinking Conventional Wisdom: The Net Spillover Effect of Bike Sharing Entry on Restaurant Patronage. Target: *Journal of Marketing Research*.
+4. **Wen, M.**, Liu, J., Kwon, J., Jung, K. S., & Kwark, Y. (Under Review). Boosting and Burdening: Dual Spillover Effects of Bike-Sharing Networks on Home-Sharing Performance. *Production and Operations Management*.
 
-4. Zhan, B., Wang, Y., & **Wen, M.** (In Preparation). Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare. Target: *Manufacturing & Service Operations Management*.
+5. Zhan, B., Wang, Y., Feng, G., **Wen, M.**\*, & Lin, J. (Under Review). Protecting You, Threatening Your Property: Impacts of Bike-Sharing on Urban Crime. *Decision Sciences*.
+
+6. **Wen, M.**, Liu, J., Foutz, N. Z., & Sun, B. (In Preparation). Rethinking Conventional Wisdom: The Net Spillover Effect of Bike Sharing Entry on Restaurant Patronage. Target: *Journal of Marketing Research*.
+
+7. Zhan, B., Wang, Y., & **Wen, M.** (In Preparation). Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare. Target: *Manufacturing & Service Operations Management*.
    - **IJOPM Hong Kong Workshop 2026 Best Paper Award**
-   - Presented at POMS-HK International Conference 2026
 
-5. Zhan, B., Wang, Y., & **Wen, M.** (In Preparation). The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents. Target: *Manufacturing & Service Operations Management*.
-   - Presented at POMS-HK International Conference 2026
+8. Zhan, B., Wang, Y., & **Wen, M.** (In Preparation). The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents. Target: *Manufacturing & Service Operations Management*.
+
+---
+
+## Working Projects
+
+9. **Model-Free Online Learning for Revenue Management under Censored Demand** (In Preparation). Develops a model-free online optimization framework based on entropy-regularized policy search for revenue management with censored demand, achieving cumulative regret bound of *O*(√T).
+
+10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics** (In Preparation). Develops a structural model of consumer cognitive resource evolution during livestream sessions to derive optimal product sequencing strategies.
+
+11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets** (In Preparation). Develops a Deep Spatial Choice Model integrating deep learning with discrete choice to quantify commercial spatial externalities of bike-sharing stations.
+
+12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation** (In Preparation). Studies how LLMs can be orchestrated through multi-agent architecture to transform shopper intent into complete shopping solutions.
+
+13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data** (In Preparation). Leverages large-scale GPS trajectory data to examine how violent crime exposure reshapes residents' mobility, spatial choices, and activity patterns.
 
 ---
 

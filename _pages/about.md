@@ -35,19 +35,6 @@ My research investigates how shared mobility platforms reshape urban ecosystems 
 
 **Contact:** muchenwen2-c@my.cityu.edu.hk
 
-## Education
-
-**Joint Ph.D. in Information Systems** (Sept 2021 – Present, Expected Sept 2026)
-- City University of Hong Kong & Xi'an Jiaotong University (Joint Program)
-- Advisors: Assoc. Prof. Liu Junming (CityU) & Prof. Lin Jun (XJTU)
-
-**Ph.D. in Management Science** (Sept 2019 – Present, Expected Sept 2026)
-- School of Management, Xi'an Jiaotong University
-- Advisor: Prof. Lin Jun
-
-**B.S. in Industrial Engineering** (Graduated June 2019)
-- School of Management, Xi'an Jiaotong University
-
 ## Download CV
 
 - [<a href="/assets/pdf/CV_Muchen__Academy_.pdf" target="_blank">Download CV (PDF)</a>]
