@@ -1,10 +1,9 @@
 ---
-layout: cv
+layout: default
 title: CV
 permalink: /cv/
 nav: true
 nav_order: 7
-cv_pdf:
 description: Curriculum Vitae
 ---
 
@@ -26,7 +25,7 @@ description: Curriculum Vitae
 
 1. **Wen, M.**, Lin, J., Qian, Y., & Huang, W. (2021). Scheduling interrelated activities in complex projects under high-order rework: A DSM-based approach. *Computers & Operations Research*, 136, 105494.
 
-2. Lin, J., Huang, W., **Wen, M.**, Li, D., Ma, S., Hua, J., ... (2020). Containing the spread of coronavirus disease 2019 (COVID-19): Meteorological factors and control strategies. *Science of The Total Environment*, 739, 140053.
+2. Lin, J., Huang, W., **Wen, M.**, Li, D., Ma, S., Hua, J., & Tian, Y. (2020). Containing the spread of coronavirus disease 2019 (COVID-19): Meteorological factors and control strategies. *Science of The Total Environment*, 739, 140053.
 
 ### Working Papers
 

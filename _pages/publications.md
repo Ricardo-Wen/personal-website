@@ -6,17 +6,8 @@ nav: true
 nav_order: 3
 ---
 
-## Publications
+## Published Papers
 
-My research primarily focuses on the **spillover effects of sharing economy**, particularly examining how bike-sharing systems influence various urban outcomes. Below is a list of my published papers and work in progress.
+1. **Wen, M.**, Lin, J., Qian, Y., & Huang, W. (2021). Scheduling interrelated activities in complex projects under high-order rework: A DSM-based approach. *Computers & Operations Research*, 136, 105494. [[DOI](https://doi.org/10.1016/j.cor.2021.105494)]
 
-### Research Themes
-
-- **Sharing Economy & Platform Economics**
-- **Urban Computing & Smart Cities**
-- **Empirical Operations Management**
-- **Digital Platforms and Social Impacts**
-
----
-
-{% bibliography --group_by none --query @*[selected!=true]* %}
+2. Lin, J., Huang, W., **Wen, M.**, Li, D., Ma, S., Hua, J., & Tian, Y. (2020). Containing the spread of coronavirus disease 2019 (COVID-19): Meteorological factors and control strategies. *Science of The Total Environment*, 739, 140053. [[DOI](https://doi.org/10.1016/j.scitotenv.2020.140053)]
