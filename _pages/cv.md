@@ -38,30 +38,30 @@ description: Curriculum Vitae
 
 5. Zhan, B., Wang, Y., Feng, G., **Wen, M.**\*, & Lin, J. (Under Review). Protecting You, Threatening Your Property: Impacts of Bike-Sharing on Urban Crime. *Decision Sciences*.
 
-6. **Wen, M.**, Liu, J., Foutz, N. Z., & Sun, B. (In Preparation). Rethinking Conventional Wisdom: The Net Spillover Effect of Bike Sharing Entry on Restaurant Patronage. Target: *Journal of Marketing Research*.
+6. **Wen, M.**, Liu, J., Foutz, N. Z., & Sun, B. (In Progress). Rethinking Conventional Wisdom: The Net Spillover Effect of Bike Sharing Entry on Restaurant Patronage. Target: *Journal of Marketing Research*.
 
-7. **Wen, M.**, Zhan, B., & Wang, Y. (In Preparation). Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare. Target: *Manufacturing & Service Operations Management*.
+7. **Wen, M.**, Zhan, B., & Wang, Y. (In Progress). Share the Sharing: Spillover Effects of Bike-Sharing on Local Taxi Markets and Driver Welfare. Target: *Manufacturing & Service Operations Management*.
    - **IJOPM Hong Kong Workshop 2026 Best Paper Award**
-
-8. **Wen, M.**, Zhan, B., & Wang, Y. (In Preparation). The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents. Target: *Manufacturing & Service Operations Management*.
+<br>
+8. **Wen, M.**, Zhan, B., & Wang, Y. (In Progress). The Safety Cost of Micro Mobility: Impact of Bike-Sharing on Traffic Accidents. Target: *Manufacturing & Service Operations Management*.
 
 ---
 
 ## Working Projects
 
-9. **Model-Free Online Learning for Revenue Management under Censored Demand** (In Preparation). 
+9. **Model-Free Online Learning for Revenue Management under Censored Demand**. 
 Develops a model-free online optimization framework based on entropy-regularized policy search for revenue management with censored demand, achieving cumulative regret bound of *O*(√T).
 
-10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics** (In Preparation). 
+10. **Optimal Product Sequencing in Livestream Commerce: A Structural Model of Cognitive Resource Dynamics**. 
 Develops a structural model of consumer cognitive resource evolution during livestream sessions to derive optimal product sequencing strategies.
 
-11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets** (In Preparation). 
+11. **Reshaping Urban Consumption Geography: A Deep Structural Choice Model of Bike-Sharing Infrastructure and Spatial Consideration Sets**. 
 Develops a Deep Spatial Choice Model integrating deep learning with discrete choice to quantify commercial spatial externalities of bike-sharing stations.
 
-12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation** (In Preparation). 
+12. **From Products to Solutions: Designing a Multi-Agent LLM System for Intent-Driven Grocery Recommendation**. 
 Studies how LLMs can be orchestrated through multi-agent architecture to transform shopper intent into complete shopping solutions.
 
-13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data** (In Preparation). 
+13. **From Fear to Footprints: Tracing the Behavioral Impact of Urban Violence with GPS Trajectory Data**. 
 Leverages large-scale GPS trajectory data to examine how violent crime exposure reshapes residents' mobility, spatial choices, and activity patterns.
 
 ---
