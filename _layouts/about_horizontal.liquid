@@ -14,31 +14,11 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-  <article>
-    <div class="row">
-      <!-- Main Content -->
-      <div class="col-md-8">
-        {% if page.profile %}
-          <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-            {% if page.profile.image %}
-              {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-              {% if page.profile.image_circular %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-              {% else %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-              {% endif %}
-              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-              {%
-                include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-                cache_bust=true
-              %}
-            {% endif %}
-          </div>
-        {% endif %}
-
+  <article class="scholar-home">
+    <div class="row g-4 align-items-start">
+      <div class="col-lg-8">
         <div class="clearfix">{{ content }}</div>
 
-        <!-- Social -->
         {% if page.social %}
           <div class="social mt-4">
             <div class="contact-icons">{% social_links %}</div>
@@ -47,11 +27,70 @@ layout: default
         {% endif %}
       </div>
 
-      <!-- Sidebar - Currently Empty -->
-      <div class="col-md-4">
-        <!-- Sidebar content can be added here if needed -->
+      <div class="col-lg-4">
+        <aside class="scholar-sidebar">
+          {% if page.profile and page.profile.image %}
+            <div class="profile portrait-card">
+              {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+              {% if page.profile.image_circular %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+              {% else %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+              {% endif %}
+              {% capture sizes %}(min-width: {{ site.max_width }}) 320px, 85vw"{% endcapture %}
+              {%
+                include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+                cache_bust=true
+              %}
+            </div>
+          {% endif %}
+
+          {% if page.snapshot %}
+            <div class="snapshot-panel">
+              {% for item in page.snapshot %}
+                <div class="snapshot-item">
+                  <span>{{ item.label }}</span>
+                  <strong>{{ item.value }}</strong>
+                </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if page.sidebar_note %}
+            <div class="sidebar-note">{{ page.sidebar_note }}</div>
+          {% endif %}
+
+          <div class="sidebar-actions">
+            <a
+              class="btn btn-sm btn-primary"
+              href="{{ '/assets/pdf/CV_Muchen__Academy_.pdf' | relative_url }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Download CV</a
+            >
+            <a class="btn btn-sm btn-outline-primary" href="{{ '/publications/' | relative_url }}">Publications</a>
+          </div>
+        </aside>
       </div>
     </div>
+
+    {% if page.selected_papers %}
+      <section class="home-selected-papers">
+        <h2>
+          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        </h2>
+        {% include selected_papers.liquid %}
+      </section>
+    {% endif %}
+
+    {% if page.announcements and page.announcements.enabled %}
+      <section class="home-news">
+        <h2>
+          <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        </h2>
+        {% include news.liquid limit=true %}
+      </section>
+    {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

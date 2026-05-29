@@ -10,11 +10,12 @@ contact_note: >
   Best way to reach me is via email.
 description: >
   Ph.D. Candidate in Information Systems and Management Science.
-  Research interests: Sharing Economy, Empirical OM, Urban Computing.
+  Research interests: urban transportation spillovers, human mobility,
+  causal inference, optimization, and LLM-driven operations management.
 footer_text: >
   &copy; {{ 'now' | date: '%Y' }} Muchen Wen. All rights reserved.
 
-keywords: Sharing Economy, Bike-Sharing, Urban Computing, Empirical OM, Information Systems
+keywords: Information Systems, Operations Management, Bike-Sharing, Urban Mobility, Causal Inference, Human Mobility, LLM, Optimization
 lang: en
 icon: 🚲
 

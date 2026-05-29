@@ -45,6 +45,221 @@ body.sticky-bottom-footer {
 // See _layouts/default.liquid and _includes/projects.liquid for examples
 
 /******************************************************************************
+ * Academic homepage
+ ******************************************************************************/
+
+.scholar-home {
+  .home-hero {
+    padding: 2rem 0 1.2rem;
+    border-top: 1px solid var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+
+    .eyebrow {
+      margin-bottom: 0.75rem;
+      color: var(--global-theme-color);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.08rem;
+      text-transform: uppercase;
+    }
+
+    h2 {
+      max-width: 760px;
+      margin-bottom: 1rem;
+      font-size: clamp(1.8rem, 2.9vw, 2.65rem);
+      line-height: 1.15;
+      font-weight: 650;
+    }
+
+    p {
+      max-width: 760px;
+      font-size: 1.02rem;
+      line-height: 1.75;
+    }
+  }
+
+  .research-compass {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 1.4rem 0 1.6rem;
+  }
+
+  .research-compass article,
+  .snapshot-panel,
+  .sidebar-note {
+    border: 1px solid var(--global-divider-color);
+    border-radius: 8px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04), transparent), var(--global-card-bg-color);
+  }
+
+  .research-compass article {
+    position: relative;
+    min-height: 245px;
+    padding: 1.25rem;
+    overflow: hidden;
+
+    &::after {
+      position: absolute;
+      right: -2.5rem;
+      bottom: -2.5rem;
+      width: 7rem;
+      height: 7rem;
+      border: 1px solid color-mix(in srgb, var(--global-theme-color), transparent 60%);
+      border-radius: 50%;
+      content: "";
+    }
+
+    h3 {
+      margin: 1.8rem 0 0.7rem;
+      font-size: 1.02rem;
+      line-height: 1.35;
+    }
+
+    p {
+      margin: 0;
+      color: var(--global-text-color-light);
+      font-size: 0.88rem;
+      line-height: 1.65;
+    }
+  }
+
+  .compass-index {
+    color: var(--global-theme-color);
+    font-family: var(--global-font-family);
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
+
+  .method-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    margin: 1.3rem 0 2.2rem;
+
+    span {
+      padding: 0.38rem 0.65rem;
+      border: 1px solid color-mix(in srgb, var(--global-theme-color), transparent 55%);
+      border-radius: 999px;
+      color: var(--global-text-color);
+      background: color-mix(in srgb, var(--global-theme-color), transparent 92%);
+      font-size: 0.78rem;
+      font-weight: 500;
+    }
+  }
+
+  .home-section {
+    margin-top: 2rem;
+
+    h2 {
+      margin-bottom: 1rem;
+      font-size: 1.35rem;
+    }
+  }
+
+  .advisor-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      padding: 0.2rem 0;
+      line-height: 1.65;
+    }
+  }
+
+  .scholar-sidebar {
+    position: sticky;
+    top: 5rem;
+  }
+
+  .portrait-card {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.8rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 8px;
+    background: var(--global-card-bg-color);
+
+    img {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+    }
+  }
+
+  .snapshot-panel {
+    padding: 0.4rem 1rem;
+  }
+
+  .snapshot-item {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: 0;
+    }
+
+    span,
+    strong {
+      display: block;
+    }
+
+    span {
+      color: var(--global-text-color-light);
+      font-size: 0.74rem;
+      text-transform: uppercase;
+    }
+
+    strong {
+      margin-top: 0.18rem;
+      font-size: 0.95rem;
+      line-height: 1.35;
+    }
+  }
+
+  .sidebar-note {
+    margin-top: 1rem;
+    padding: 1rem;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  .sidebar-actions {
+    display: flex;
+    gap: 0.6rem;
+    margin-top: 1rem;
+
+    .btn {
+      flex: 1;
+      white-space: nowrap;
+    }
+  }
+
+  .home-selected-papers,
+  .home-news {
+    margin-top: 2.7rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .scholar-home {
+    .research-compass {
+      grid-template-columns: 1fr;
+    }
+
+    .research-compass article {
+      min-height: 0;
+    }
+
+    .scholar-sidebar {
+      position: static;
+    }
+  }
+}
+
+/******************************************************************************
  * Publications
  ******************************************************************************/
 

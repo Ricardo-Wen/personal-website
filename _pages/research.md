@@ -60,10 +60,6 @@ nav_order: 4
   }
 </style>
 
-My research examines how digital platforms and urban systems interact, spanning **sharing economy spillover effects**, **revenue management**, **livestream commerce**, **AI-driven retail**, and **urban safety**. The following projects reflect my research agenda.
-
----
-
 <div class="section-label">Sharing Economy & Urban Spillovers</div>
 
 <div class="research-card">
